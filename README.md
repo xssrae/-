@@ -27,3 +27,5 @@ This is the final project for the Discover course by [Rocketseat](https://www.ro
     ```
 
 3. Open the `index.html` file in your browser.
+
+![cat](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
