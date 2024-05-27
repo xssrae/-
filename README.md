@@ -8,6 +8,8 @@
 
 This is the final project for the course Discover by [Rocketseat](https://www.rocketseat.com.br/). It features to quick links and social media page with a light and dark mode switch. The page is built using **HTML**, **CSS**, and pure **JavaScript**.
 
+Preview [here](https://xssrae.github.io/social-links/)
+
 ## How to Use
 
 1. Clone the repository:
