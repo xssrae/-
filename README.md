@@ -5,25 +5,24 @@
 ![Dark Mode]()
 ![Light Mode]()
 
-Projeto final do curso Discover da [Rocketseat](https://www.rocketseat.com.br/), que consiste em uma página para links rápidos e redes sociais que permite a troca entre o modo Claro e Escuro. A página foi construída utilizando HTML, CSS e JavaScript puro.
+This is the final project for the Discover course by [Rocketseat](https://www.rocketseat.com.br/). It features a quick links and social media page with a light and dark mode switch. The page is built using pure HTML, CSS, and JavaScript.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
-- **HTML**: Estrutura básica da página.
-- **CSS**: Estilização da página, incluindo temas Claro e Escuro.
-- **JavaScript**: Funcionalidade para alternar entre os temas.
+- **HTML**: Basic structure of the page.
+- **CSS**: Styling of the page, including light and dark themes.
+- **JavaScript**: Functionality to switch between themes.
 
+## How to Use
 
-## Como Utilizar
-
-1. Clone o repositório:
+1. Clone the repository:
     ```sh
     git clone https://github.com/xssrae/social-links.git
     ```
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
     ```sh
     cd social-links
     ```
 
-3. Abra o arquivo `index.html` no seu navegador.
+3. Open the `index.html` file in your browser.
