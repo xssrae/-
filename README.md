@@ -2,8 +2,8 @@
 
 ![Light/Dark Mode Switch](https://img.shields.io/badge/Theme-Light%20%26%20Dark%20Mode-brightgreen)
 
-![Dark Mode]()
-![Light Mode]()
+![Dark Mode](https://github.com/xssrae/-/blob/main/preview/dark-mode.png)
+![Light Mode](https://github.com/xssrae/-/blob/main/preview/light-mode.png)
 
 This is the final project for the Discover course by [Rocketseat](https://www.rocketseat.com.br/). It features a quick links and social media page with a light and dark mode switch. The page is built using pure HTML, CSS, and JavaScript.
 
