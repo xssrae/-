@@ -6,7 +6,7 @@
 
 :root {
     --text-color: white;
-    --bg-url: url(./assets/dark-mobile.png);
+    --bg-url: url(./assets/dark-mode.png);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
     --surface-color-hover: rgba(0, 0, 0, 0.02);
@@ -16,13 +16,12 @@
 
 .light {
     --text-color: black;
-    --bg-url: url(./assets/light-mobile.png);
-    --stroke-color: rgba(0, 0, 0, 0.5);
+    --bg-url: url(./assets/light-mode.png);
+    --stroke-color: rgba(3, 1, 1, 0.5);
     --surface-color: rgba(0, 0, 0, 0.05);
     --surface-color-hover: rgba(0, 0, 0, 0.02);
     --highlight-color: rgba(0, 0, 0, 0.1);
     --switch-bg-url: url(./assets/sun.svg);
-
 }
 
 body {
@@ -154,21 +153,29 @@ ul li a:hover {
 
 @media (min-width: 700px) {
     :root {
-        --bg-url: url(./assets/dark-desktop.png);
+        --bg-url: url(./assets/dark-mode.png);
         --switch-bg-url: url(./assets/moon-stars.svg);
     }
 
     .light {
-        --bg-url: url(./assets/light-desktop.png);
+        --bg-url: url(./assets/light-mode.png);
         --switch-bg-url: url(./assets/sun.svg);
     }
 }
 
 /* animation */
-@keyframes slide-in{
+@keyframes slide-in {
     from {
         left: 0;
     } to {
         left: 50%;
+    }
+}
+
+@keyframes slide-back {
+    from {
+        left: 50%;
+    } to {
+        left: 0%;
     }
 }
