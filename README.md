@@ -2,16 +2,11 @@
 
 ![Light/Dark Mode Switch](https://img.shields.io/badge/Theme-Light%20%26%20Dark%20Mode-brightgreen)
 
-![Dark Mode]()
-![Light Mode]()
+![Dark Mode](https://github.com/xssrae/-/blob/main/preview/dark-mode.png)
 
-This is the final project for the Discover course by [Rocketseat](https://www.rocketseat.com.br/). It features a quick links and social media page with a light and dark mode switch. The page is built using pure HTML, CSS, and JavaScript.
+![Light Mode](https://github.com/xssrae/-/blob/main/preview/light-mode.png)
 
-## Technologies Used
-
-- **HTML**: Basic structure of the page.
-- **CSS**: Styling of the page, including light and dark themes.
-- **JavaScript**: Functionality to switch between themes.
+This is the final project for the course Discover by [Rocketseat](https://www.rocketseat.com.br/). It features to quick links and social media page with a light and dark mode switch. The page is built using **HTML**, **CSS**, and pure **JavaScript**.
 
 ## How to Use
 
@@ -26,3 +21,5 @@ This is the final project for the Discover course by [Rocketseat](https://www.ro
     ```
 
 3. Open the `index.html` file in your browser.
+
+![cat](https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true)
